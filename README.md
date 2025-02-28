@@ -17,7 +17,8 @@ This Todo app demonstrates how to build applications using the Recommand Framewo
 
 ## Prerequisites
 
-- [Recommand Framework](../recommand-framework/) installed and configured
+- [Recommand Framework](https://github.com/brbxai/recommand-framework) installed and configured
+- [Recommand Framework Core](https://github.com/brbxai/recommand-core) installed and configured
 - PostgreSQL database
 - [Bun](https://bun.sh)
 
