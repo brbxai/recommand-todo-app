@@ -1,0 +1,1 @@
+ALTER TABLE "tasks" ALTER COLUMN "description" SET DEFAULT 'Default description';
